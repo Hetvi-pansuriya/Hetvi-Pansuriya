@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hetvi Patel  
+# Hi there 👋 I'm Hetvi Pansuriya
 
 🎓 *Computer Science Student* | *AI/ML Career Aspirant*  
 💻 Building problem-solving expertise in *C++ & Data Structures*  
